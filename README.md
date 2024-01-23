@@ -1,4 +1,4 @@
-# cyberblog
+# Cyberblog
 Securing Cloud Application
 
 * Developed and designed a cyber-blog web application using Azure’s Cloud services and Docker.
